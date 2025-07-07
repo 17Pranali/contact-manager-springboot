@@ -69,5 +69,17 @@ ContactmanagerApplication.java
 http://localhost:8080/contacts
 ```
 
-## Screenshots
+## 📸 Screenshots
+
+### 🏠 Homepage (Contact List)
+![Homepage](images/homepage.png)
+
+### ➕ Add Contact Form
+![Add Contact](images/add-contact.png)
+
+### ✏️ Edit Contact
+![Validation](images/edit-Contact.png)
+
+### ✏️ Delete Contact
+![Validation](images/delete-contact.png)
 
