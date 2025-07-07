@@ -80,6 +80,6 @@ http://localhost:8080/contacts
 ### ✏️ Edit Contact
 ![Validation](images/edit-Contact.png)
 
-### ✏️ Delete Contact
+### 🗑️ Delete Contact
 ![Validation](images/delete-contact.png)
 
