@@ -41,7 +41,7 @@ A simple and elegant Contact Management web application built with:
 git clone https://github.com/17Pranali/contact-manager-springboot.git
 cd contact-manager-springboot
 ```
-### 3. Configure `application.properties`
+### 2. Configure `application.properties`
 
 File: `src/main/resources/application.properties`
 ```
@@ -50,21 +50,21 @@ spring.datasource.url=jdbc:mysql://localhost:3306/contactdb
 spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 ```
-3. Configure application.properties
+### 3. Configure application.properties
 File: `src/main/resources/application.properties`
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/contactdb
 spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 ```
-4. Run the Project
+### 4. Run the Project
 Open the project in Eclipse or IntelliJ
 
 Run the main class:
 ```
 ContactmanagerApplication.java
 ```
-5. Access in Browser
+### 5. Access in Browser
 ```
 http://localhost:8080/contacts
 ```
