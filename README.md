@@ -26,8 +26,8 @@ A simple and elegant Contact Management web application built with:
 
 | Layer       | Technology              |
 |-------------|--------------------------|
-| Backend     | Java 17, Spring Boot 3   |
-| Frontend    | Thymeleaf, HTML, Bootstrap 5 |
+| Backend     | Java, Spring Boot   |
+| Frontend    | Thymeleaf, HTML, Bootstrap |
 | Database    | MySQL                    |
 | Build Tool  | Maven                    |
 
